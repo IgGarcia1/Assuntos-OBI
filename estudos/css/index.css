@@ -1,0 +1,48 @@
+#pagina{
+    padding-top: 10px;
+    height: 100%;
+}
+p{
+    text-align: justify;
+    text-indent: 50px;
+
+}
+
+.titulo{
+    font-weight: bold;
+}
+
+.comparacaoCodigos{
+    width: 100%;
+}
+
+.dark-theme{
+    background-color: rgba(13, 15, 142, 0.9);
+}
+.codigo-dark{
+    color: white;
+}
+
+.codigo{
+    border-radius: 10px;
+    overflow: auto;
+}
+
+.identificador{
+    display: inline;
+    font-weight: bolder;
+}
+
+ol{
+    list-style-type: decimal;
+}
+
+.explicacao{
+    font-style: italic;
+    font-weight: bold;
+}
+div .explicacao{
+    background-color: rgba(0,0,0,0.1);
+    border-radius: 10px;
+    padding: 3%;
+}

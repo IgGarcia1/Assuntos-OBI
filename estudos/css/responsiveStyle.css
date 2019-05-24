@@ -1,0 +1,14 @@
+@media only screen and (min-width: 1200px) {
+    .comparacaoCodigos div{
+        width: 49%;
+        display: inline-block;
+    }
+}
+@media only screen and (max-width: 1199px){
+    .comparacaoCodigos div{
+        display:block;
+    }
+    #comRecursao{
+        margin-top: 1%;
+    }
+}
