@@ -46,3 +46,13 @@ div .explicacao{
     border-radius: 10px;
     padding: 3%;
 }
+
+
+.ilustracao{
+    text-align: center;
+    align-content: center;
+}
+
+*{
+    overflow: visible;
+}
